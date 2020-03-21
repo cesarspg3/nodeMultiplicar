@@ -1,5 +1,7 @@
-# nodeMultiplicar
+# Node multiplicar
 test, aplicación de comandos en node
+
+Lanzar npm i
 
 ej de comandos:
 node app listar -b=1 -l=30 //lista tabla del uno hasta el el lmite 30
